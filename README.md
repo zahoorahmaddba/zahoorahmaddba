@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zahoorahmaddba
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning and a newbie
-- 💞️ I’m looking to collaborate on Full Stack Developer track.
+- 👋 Hi, I’m Zahoor Ahmad
+- 👀 I’m interested in Data Engineering (Azure) / Database Administration (Oracle/MSSQL) 
+- 🌱 I’m having 6 Years of experience in Database administration. 3 Years Data Engineering.
+- 💞️ I’m looking to collaborate on Data Engineer and Database Adminstration.
 - 📫 How to reach me zahoorahmad@outlook.com
 
 <!---
